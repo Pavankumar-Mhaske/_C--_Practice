@@ -16,9 +16,9 @@ int main(void)
     //             break;
     // else
     //     n = -1;
-    
+
     int squreRoot = sqrt(n);
-    if (n > 2)
+    if (n > 1)
         for (int i = 2; i <= squreRoot; i++)
             if (n % i)
                 continue;
