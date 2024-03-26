@@ -4,7 +4,7 @@
 
 int main()
 {
-    const int numFiles = 10;
+    const int numFiles = 14;
 
     for (int i = 1; i <= numFiles; ++i)
     {
