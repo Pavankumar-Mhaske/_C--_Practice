@@ -48,6 +48,7 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "array": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "forward_list": "cpp"
   }
 }
