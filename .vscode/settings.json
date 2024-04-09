@@ -49,6 +49,7 @@
     "xutility": "cpp",
     "array": "cpp",
     "vector": "cpp",
-    "forward_list": "cpp"
+    "forward_list": "cpp",
+    "stack": "cpp"
   }
 }
