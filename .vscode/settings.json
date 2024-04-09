@@ -51,6 +51,12 @@
     "vector": "cpp",
     "forward_list": "cpp",
     "stack": "cpp",
-    "list": "cpp"
+    "list": "cpp",
+    "algorithm": "cpp",
+    "deque": "cpp",
+    "queue": "cpp",
+    "set": "cpp",
+    "sstream": "cpp",
+    "xtree": "cpp"
   }
 }
