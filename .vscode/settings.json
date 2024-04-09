@@ -50,6 +50,7 @@
     "array": "cpp",
     "vector": "cpp",
     "forward_list": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "list": "cpp"
   }
 }
